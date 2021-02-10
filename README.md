@@ -1,4 +1,4 @@
-![tahoe](https://user-images.githubusercontent.com/45084684/107559311-ecb71a80-6ba9-11eb-827b-57037d99fd7f.png=100x20)
+![banner](https://user-images.githubusercontent.com/45084684/107560821-d447ff80-6bab-11eb-8f93-e1a39656cce5.png)
 
 ### Hi there 👋
 
